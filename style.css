@@ -385,4 +385,8 @@ display: none;
         margin-left: 128px;
         top: 0px;
     }
+    .card{
+        width: 200px;
+        transform: translate(100px,20px);
+    }
 }
